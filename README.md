@@ -22,10 +22,6 @@ Este repositório contém minha evolução ao longo do curso, incluindo:
 │   ├── funcoes01.py
 │   └── ...
 │
-├── git e github/
-│   └── meu-git.md
-│   └── README.md
-│
 └── README.md
 
 ## 🚀 Desafio: Sistema Bancário
