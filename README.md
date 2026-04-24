@@ -14,6 +14,7 @@ Este repositório contém minha evolução ao longo do curso, incluindo:
 
 
 ## 📂 Estrutura
+```
 ├── desafios/
 │   └── sistema_bancario.py
 │
@@ -23,6 +24,7 @@ Este repositório contém minha evolução ao longo do curso, incluindo:
 │   └── ...
 │
 └── README.md
+```
 
 ## 🚀 Desafio: Sistema Bancário
 
